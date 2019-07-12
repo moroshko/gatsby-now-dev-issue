@@ -7,3 +7,4 @@
 
 1. Based on the [now gatsby example](https://github.com/zeit/now-examples/tree/master/gatsby)
 2. `now` version: 15.7.0
+3. Removing the static builds builder from `now.json` fixes the issue.
